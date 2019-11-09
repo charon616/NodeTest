@@ -1,0 +1,23 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charon616/NodeTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charon616/NodeTest/issues"
+  },
+  "homepage": "https://github.com/charon616/NodeTest#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
